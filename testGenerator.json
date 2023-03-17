@@ -1,0 +1,58 @@
+{
+    "100": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "100",
+        "nume": "XANAX",
+        "producator": "sdhgfhlgj",
+        "pret": 67,
+        "necesitateReteta": "da"
+    },
+    "101": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "101",
+        "nume": "parasinus",
+        "producator": "sadasd",
+        "pret": 678,
+        "necesitateReteta": "da"
+    },
+    "102": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "102",
+        "nume": "theraflu",
+        "producator": "sdfdsjnkdnvn",
+        "pret": 678,
+        "necesitateReteta": "nu"
+    },
+    "103": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "103",
+        "nume": "Coxtral",
+        "producator": "asdsa",
+        "pret": 46,
+        "necesitateReteta": "da"
+    },
+    "104": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "104",
+        "nume": "panadlo",
+        "producator": "kjnjknjncv",
+        "pret": 78,
+        "necesitateReteta": "da"
+    },
+    "105": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "105",
+        "nume": "panadlo",
+        "producator": "fdlgkdfgl",
+        "pret": 654,
+        "necesitateReteta": "nu"
+    },
+    "106": {
+        "py/object": "Domain.medicament.Medicament",
+        "idEntitate": "106",
+        "nume": "theraflu",
+        "producator": "kjnjknjncv",
+        "pret": 67,
+        "necesitateReteta": "da"
+    }
+}
